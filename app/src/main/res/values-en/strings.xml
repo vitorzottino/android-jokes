@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Appiadas</string>
+    <string name="label_joker_hint">The joke will be shown here</string>
+    <string name="button_new_joker">Tell another joke</string>
+
+    <string name="joker_one">Why is the spider the neediest animal in the world?\nBecause it is an aracneedyou.
+    </string>
+    <string name="joker_two">Joke2</string>
+    <string name="joker_three">Joke3</string>
+    <string name="joker_four">Joke4</string>
+    <string name="joker_five">Joke5</string>
+    <string name="joker_six">Joke6</string>
+    <string name="joker_seven">Joke7</string>
+</resources>
